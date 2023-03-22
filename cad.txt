@@ -1,5 +1,0 @@
-Requesitos ter o WordPress instalado, e mova a pasta a te temas que fica depoios
-mova ate a pasta wp-content que fica na pasta WordPress
-
-wordpres -> wp-content -> themes -> paperless
-
