@@ -1,2 +1,4 @@
 Para adicionar um novo navbar e header, voce pode adicionar novos modelos por and drop e selecionar o que deseja
 certifique de estar dentro de um gruop as coisas novas que voce acrescentar no site 
+
+docker exec -it confident_booth wp user create Devbrunoo --user_pass=1234567##ss --role=editor

@@ -8,6 +8,11 @@ Este é um tema WordPress lindo criado com Docker. O objetivo deste tema é forn
     <img src="./gifdofunciomaneto.gif" width="725" height="356">
 </div>
 
+### Imagem do tema 
+<div style="max-width: 100%; overflow: hidden;">
+    <img src="./temafoto.png" width="725" height="356">
+</div>
+
 ## Como usar 
 
 
