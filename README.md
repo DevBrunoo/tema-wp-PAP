@@ -2,6 +2,12 @@
 
 Este é um tema WordPress lindo criado com Docker. O objetivo deste tema é fornecer uma base para um tema personalizado do WordPress que possa ser facilmente executado usando o Docker.
 
+## Demostração dos aplicativos no front-end
+
+<div style="max-width: 100%; overflow: hidden;">
+    <img src="./gifdofunciomaneto.gif" width="725" height="356">
+</div>
+
 ## Como usar 
 
 
