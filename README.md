@@ -45,9 +45,20 @@ Este tema é uma base para um tema personalizado do WordPress. Para personalizar
 5. Crie um novo contêiner com a nova imagem do Docker usando o comando docker run.
 
 
+## Tech Stack
+
+**Tecnologias:** JavaScript, PHP, CSS, HTML
+
+**Server:** XAMPP, PHP, Docker 
+
+**Database:** MySQL 
+
+
+
 ## Contribuição
 
 Se você gostaria de contribuir para este tema, sinta-se livre para enviar um pull request.
+
 
 ## Licença
 
